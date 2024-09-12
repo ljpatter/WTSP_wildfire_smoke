@@ -9,8 +9,6 @@ library(gridExtra)
 dat1 <- read.csv("Output/ttest_data.csv")
 
 
-
-
 ######### HISTOGRAMS ###########
 
 

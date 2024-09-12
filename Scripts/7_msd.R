@@ -172,8 +172,3 @@ for (date in dates) {
 # Step 4: Print average MSD results for each date
 print(msd_results)
 
-
-
-
-library(tidyverse)
-
