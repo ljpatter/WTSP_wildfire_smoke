@@ -173,6 +173,7 @@ for (date in dates) {
 print(msd_results)
 
 
-library(usethis)
-edit_git_config()
-use_git()
+
+
+library(tidyverse)
+
